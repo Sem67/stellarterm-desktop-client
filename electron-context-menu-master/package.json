@@ -27,7 +27,7 @@
     "image"
   ],
   "dependencies": {
-    "electron-dl": "^1.2.0",
+    "electron-dl": "^2.0.0",
     "electron-is-dev": "^0.1.1"
   },
   "devDependencies": {
