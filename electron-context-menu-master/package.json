@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "electron-dl": "^1.2.0",
-    "electron-is-dev": "^0.1.1"
+    "electron-is-dev": "^0.3.0"
   },
   "devDependencies": {
     "ava": "*",
